@@ -16,6 +16,8 @@
      * To turn on GPS, you need to uncomment this line Gps = EG25_4G.gps() in main.py file
    * You need to enter your mobile number in the code pico_2g_exp.py to make call and send the message
 
+### Use Pico 4G Expansion wirhout Pico
+
 
 
 
