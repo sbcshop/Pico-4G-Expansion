@@ -25,6 +25,7 @@
 
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img3.jpg" />
 
+
    Then go to tools-> serial console as shown in figure
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img4.png" />
 
