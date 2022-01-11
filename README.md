@@ -22,12 +22,12 @@
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img1.jpg" />
 
    First turn on the module by pressing the power button for three second ( with pico you don,t need to press this button because module is turn on with the help of code) button    is in the module as you see in the image. Then open any terminal which has AT command facility.
-   for example download XCTU software,as shown in figure
+   for example download "AT Command Tester" software,as shown in figure
 
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img3.jpg" />
 
 
-   Then go to tools-> serial console as shown in figure
+   Open port configuration,select COM port and set baud rate (115200 is default). After that click on connect icon
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img4.JPG" />
    
    After that you see different serial/USB port as shown in figure, then choose Quectel USB AT port, for at command
