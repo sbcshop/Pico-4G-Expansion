@@ -18,11 +18,12 @@
 
 ### Use Pico 4G Expansion without Pico
 
-<img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/img1.jpg" />
+   <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/img1.jpg" />
 
-First turn on the module by pressing the power button for three second, button is in the module as you see in the image. Then open any terminal which has AT command facility.
-for example download XCTU software
+   First turn on the module by pressing the power button for three second, button is in the module as you see in the image. Then open any terminal which has AT command facility.
+   for example download XCTU software,as shown in figure
 
+   <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/img3.jpg" />
 
     
     
