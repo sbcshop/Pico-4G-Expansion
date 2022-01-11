@@ -18,7 +18,7 @@
 
 ### Use Pico 4G Expansion wirhout Pico
 
-<img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/img1.JPG" />
+<img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/img1.jpg" />
 
 
 
