@@ -20,7 +20,7 @@
 
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img1.jpg" />
 
-   First turn on the module by pressing the power button for three second, button is in the module as you see in the image. Then open any terminal which has AT command facility.
+   First turn on the module by pressing the power button for three second ( with pico ypu don,t need to press this button because mofule is turn on with the help of code) button    is in the module as you see in the image. Then open any terminal which has AT command facility.
    for example download XCTU software,as shown in figure
 
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img3.jpg" />
