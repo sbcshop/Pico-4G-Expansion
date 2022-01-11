@@ -30,9 +30,12 @@
    Open port configuration,select COM port and set baud rate (115200 is default). After that click on connect icon
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img4.JPG" />
    
-   After that you see different serial/USB port as shown in figure, then choose Quectel USB AT port, for at command
+   There are numerous features in "AT command tester" software as per the image below
    
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img_5.JPG" />
+   
+   For example:
+     
    
 
     
