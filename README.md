@@ -7,7 +7,7 @@
    * Plug raspberry pi pico at the top of pico 4G expansion
    * In the folder you see two three python file :
      * Lcd1_14driver.py -> This file is of lcd display
-     * EG25_4G.py -> This file contain the library of the module, you need to add this file to pico (including AT commands).
+     * EG25_4G.py -> This file contain the library of the module (including AT commands) , you need to add this file to pico .
      * main.py -> This is the main file you need to run
      
    * Inside the "main.py" file, you see three functions
