@@ -28,6 +28,11 @@
 
    Then go to tools-> serial console as shown in figure
    <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img4.png" />
+   
+   After that you see different serial/USB port as shown in figure, then choose Quectel USB AT port, for at command
+   
+   <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img5.JPG" />
+   
 
     
     
