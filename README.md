@@ -6,7 +6,7 @@
 ### Use 4G expansion module with pico 
    * Plug raspberry pi pico at the top of pico 4G expansion
    * In the folder you see two three python file :
-     * Lcd1_14driver.py -> This file is of lcd display
+     * Lcd1_14driver.py -> This file contain library of lcd display
      * EG25_4G.py -> This file contain the library of the module (including AT commands) , you need to add this file to pico .
      * main.py -> This is the main file you need to run
      
