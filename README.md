@@ -36,7 +36,7 @@
    
    For example: If you want to call, go to voice call option, then write your mobile number in blank box, as shown image below:
    
-   <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img_6.JPG" />
+   <img src = "https://github.com/sbcshop/Pico-4G-Expansion/blob/main/image/img6.JPG" />
 
      
    
