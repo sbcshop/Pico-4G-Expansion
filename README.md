@@ -15,7 +15,7 @@
      * To make a message, you need to uncomment this line Message = EG25_4G.message(Mobile_number,Write_message) 
        in main.py file
      * To turn on GPS, you need to uncomment this line Gps = EG25_4G.gps() in main.py file
-   * You need to enter your mobile number in the code pico_2g_exp.py to make call and send the message
+   * You need to enter your mobile number in the code main.py to make call and send the message
 
 ### Use Pico 4G Expansion without Pico
 
